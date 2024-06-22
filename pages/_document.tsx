@@ -4,7 +4,8 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head />
-      <body>
+      <title>Ashot Poghosyan Cv Website</title>
+      <body className="font-primary">
         <Main />
         <NextScript />
       </body>
