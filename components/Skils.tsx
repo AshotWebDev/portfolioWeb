@@ -7,7 +7,7 @@ const Skils = () => {
         <div className='grid w-[80%] mx-auto grid-cols-1 lg:grid-cols-7 gap-[30px] items-center'>
             <div className='col-span-3'>
                 <p className='heading_mini'>My Skills</p>
-                <h1 className='heading_primary'>Let's Explor Popular <span className='text-yellow-400'>Skils</span>{" "} & Experience</h1>
+                <h1 className='heading_primary'>Lets Explor Popular <span className='text-yellow-400'>Skils</span>{" "} & Experience</h1>
                 <p className='text-[15px] mb-[30px] text-white opacity-70 mt-[10px]'>
                     Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum illum sed eum placeat dolorum saepe quaerat recusandae sapiente expedita! Est quasi voluptatibus consequuntur aspernatur saepe corrupti quam inventore fugit sed.
                 </p>

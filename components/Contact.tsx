@@ -35,7 +35,7 @@ const Contact = () => {
       <div className='grid grid-cols-1 md:grid-cols-2 gap-[30px] items-center w-[80%] mx-auto'>
         <div>
           <p className='heading_mini'>Get in Touch</p>
-          <h1 className='heading_primary'>Let's make your <span className='text-yellow-400'>Brand</span> brilliant</h1>
+          <h1 className='heading_primary'>Lets make your <span className='text-yellow-400'>Brand</span> brilliant</h1>
           <p className='text-[15px] mt-[15px] text-white opacity-80'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
           <div className='mt-[30px] mb-[30px]'>
             <a className='text-[30px] text-yellow-400 underline font-semibold' href="tel:+37498241384">+(374)98 24 13 84</a>

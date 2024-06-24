@@ -12,7 +12,7 @@ const Hero = () => {
                     <div>
                         <h1 data-aos='fade-right' className='text-[#c4cfde] mb-4'>WELCOME TO MY WORLD</h1>
                         <div data-aos='fade-left' data-aos-delay='400'>
-                            <h1 className='xl:text-[50px] lg:text-[40px]  sm:text-[35px] text-[25px] font-semibold leading-8 text-white'>Hi, I'm  <span className='text-yellow-400'>Ashot</span></h1>
+                            <h1 className='xl:text-[50px] lg:text-[40px]  sm:text-[35px] text-[25px] font-semibold leading-8 text-white'>Hi, Im  <span className='text-yellow-400'>Ashot</span></h1>
                             <TypeWriterEffect />
                         </div>
                         <div  data-aos='fade-up' data-aos-delay='800'>
