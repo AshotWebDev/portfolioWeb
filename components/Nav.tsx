@@ -40,19 +40,19 @@ const Nav = ({openNav}: IPropsNav) => {
 
                 <ul className='md:flex hidden items-center space-x-10'>
                     <li onClick={() => scrollFunck('home')}>
-                        <a className='nav_link '>Home</a>
+                        <a className='nav_link cursor-pointer'>Home</a>
                     </li>
                     <li onClick={() => scrollFunck('about')}>
-                        <a className='nav_link'>About</a>
+                        <a className='nav_link cursor-pointer'>About</a>
                     </li>
                     <li onClick={() => scrollFunck('services')}>
-                        <a className='nav_link'>Services</a>
+                        <a className='nav_link cursor-pointer'>Services</a>
                     </li>
                     <li onClick={() => scrollFunck('projects')}>
-                        <a className='nav_link'>Projects</a>
+                        <a className='nav_link cursor-pointer'>Projects</a>
                     </li>
                     <li onClick={() => scrollFunck('contact')}>
-                        <a className='nav_link'>Contact</a>
+                        <a className='nav_link cursor-pointer'>Contact</a>
                     </li>
                 </ul>
 

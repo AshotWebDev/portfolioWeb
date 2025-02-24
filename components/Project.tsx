@@ -3,7 +3,7 @@ import ProjectCard from './Helper/ProjectCard'
 
 const Project = () => {
     return (
-        <div className='pt-[80px] pb-[50px] bg-gray-900'>
+        <div id="projects" className='pt-[80px] pb-[50px] bg-gray-900'>
             <div className='text-center'>
                 <p className='heading_mini'>React Works</p>
                 <h1 className='heading_primary'>

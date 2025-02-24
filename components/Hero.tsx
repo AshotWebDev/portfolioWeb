@@ -36,13 +36,15 @@ const Hero = () => {
                         </div>
                         <div className='mt-[30px] flex items-center space-x-6'>
                             <button data-aos='zoom-in' data-aos-delay='1200' className='custom-btn'>
-                                <a href='/pdf/Ashot_Poghosyan_CV.pdf' className='relative z-10' download>Download CV</a>
+                                <a href='/pdf/Ashot-Poghosyan(CV)-(new).pdf' className='relative z-10' download>
+                                    Download CV
+                                </a>
                             </button>
                         </div>
                     </div>
                     <div
                         data-aos='fade-left'
-                        className='mt-6 xl:w-[600px] xl:h-[600px] md:w-[400px] md:h-[400px] w-[300px] h-[300px] rounded-full xl:border-[50px] md:border-[30px] border-[20px] border-solid border-[#c4cfde] bg-[url("/images/hero.png")] bg-cover xl:bg-[-6pc] bg-[-3pc]'
+                        className='mt-6 xl:w-[600px] xl:h-[600px] md:w-[400px] md:h-[400px] w-[300px] h-[300px] rounded-full xl:border-[50px] md:border-[30px] border-[20px] border-solid border-[#c4cfde] bg-[url("/images/hero.png")] bg-cover xl:bg-[-8pc] bg-[-3pc]'
                     />
                 </div>
             </div>
